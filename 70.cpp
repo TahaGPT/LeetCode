@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/climbing-stairs/submissions/1651498991/
+// https://leetcode.com/problems/climbing-stairs/
 
 class Solution
 {
